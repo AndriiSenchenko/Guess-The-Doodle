@@ -14,6 +14,7 @@
 		B536AA8C2AF700B80018E302 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B536AA8B2AF700B80018E302 /* MenuView.swift */; };
 		B536AA8E2AF701290018E302 /* MatchManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B536AA8D2AF701290018E302 /* MatchManager.swift */; };
 		B536AA902AF7017C0018E302 /* Misc.swift in Sources */ = {isa = PBXBuildFile; fileRef = B536AA8F2AF7017C0018E302 /* Misc.swift */; };
+		B536AA922AF7A3360018E302 /* GameOverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B536AA912AF7A3360018E302 /* GameOverView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		B536AA8B2AF700B80018E302 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 		B536AA8D2AF701290018E302 /* MatchManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchManager.swift; sourceTree = "<group>"; };
 		B536AA8F2AF7017C0018E302 /* Misc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Misc.swift; sourceTree = "<group>"; };
+		B536AA912AF7A3360018E302 /* GameOverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOverView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				B536AA812AF6FD5B0018E302 /* Assets.xcassets */,
 				B536AA832AF6FD5B0018E302 /* Preview Content */,
 				B536AA8B2AF700B80018E302 /* MenuView.swift */,
+				B536AA912AF7A3360018E302 /* GameOverView.swift */,
 				B536AA8D2AF701290018E302 /* MatchManager.swift */,
 				B536AA8F2AF7017C0018E302 /* Misc.swift */,
 			);
@@ -150,6 +153,7 @@
 				B536AA8E2AF701290018E302 /* MatchManager.swift in Sources */,
 				B536AA8C2AF700B80018E302 /* MenuView.swift in Sources */,
 				B536AA902AF7017C0018E302 /* Misc.swift in Sources */,
+				B536AA922AF7A3360018E302 /* GameOverView.swift in Sources */,
 				B536AA7E2AF6FD560018E302 /* Guess_The_DoodleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
